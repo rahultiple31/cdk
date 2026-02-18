@@ -1,4 +1,4 @@
-name: Deploy CDK VPC
+name: Destroy CDK VPC
 
 on:
   workflow_dispatch:
