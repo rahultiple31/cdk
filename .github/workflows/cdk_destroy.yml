@@ -39,4 +39,4 @@ jobs:
         run: cdk synth
 
       - name: CDK Destroy
-        run: cdk destroy $CDK_STACK_NAME --require-approval never
+        run: cdk destroy "$CDK_STACK_NAME" --force --require-approval never
