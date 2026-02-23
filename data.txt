@@ -1,0 +1,5 @@
+Story 5.1: Provision New Relic account and configure AWS integration — 1 day
+Story 5.2: Install New Relic agents in EKS workloads — 1 day
+Story 5.3: Configure New Relic dashboards for application plane — 1 day
+Story 5.4: Set up alert policies and notifications — 0.5 day
+Story 5.5: Document New Relic setup and monitoring strategy — 0.5 day
